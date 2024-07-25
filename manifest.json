@@ -4,9 +4,6 @@
   "theme_color": "#403040",
   "background_color": "#D8BFD8",
   "display": "standalone",
-  "orientation": "portrait",
-  "scope": "/Placeholder",
-  "start_url": "book.html"
   "icons": [
     {
    "src": "icons/android-icon-36x36.png",
